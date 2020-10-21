@@ -2,7 +2,7 @@ Step 1
 Open Anaconda PowerShell
 
 Step 2
-cd Desktop\EMC_Dashboard
+cd 'GitHub/USEP_Dashboard'
 
 Step 3 
 python -m virtualenv venv
