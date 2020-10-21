@@ -1,0 +1,19 @@
+Step 1
+Open Anaconda PowerShell
+
+Step 2
+cd Desktop\EMC_Dashboard
+
+Step 3 
+python -m virtualenv venv
+
+Step 4
+pip install -r requirements.txt
+pip install gunicorn
+
+Step 5
+.\venv\Scripts\activate
+
+Step 6
+python index.py
+ 

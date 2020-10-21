@@ -1,0 +1,459 @@
+Date,From time,To time,Name,Latitude,Longitude,Condition
+1/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+1/11/2019,0:00,23:30,PacificLight Power ,1.286848,103.722708,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+1/11/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+1/11/2019,18:30,19:30,Keppel Merlimau Cogen ,1.282498,103.675245,Fuel changeover test of Generating Unit SERCCP2 is anticipated to carry out on 01 Nov 2019 at the following timing. Gas to Diesel : At about 1831Hrs. Diesel to Gas : At about 1901Hrs.
+1/11/2019,18:30,19:30,Tuas Power Generation ,1.287521,103.640834,Fuel changeover test of Generating Unit SERCCP2 was carried out and completed on 01 Nov 2019 at the following timing. Gas to Diesel : From 1831Hrs - 1833Hrs. Diesel to Gas : From 1911Hrs - 1914Hrs.
+2/11/2019,0:00,23:30,Shell Eastern Petroleum ,1.228974,103.767913,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+2/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+2/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+2/11/2019,18:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit SERCCP2 on 02 Nov 2019 at 1801Hrs was without Final Approval/Consent.
+2/11/2019,20:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Pulau Seraya 400kV - CB3-252 & CB3-352 on 02 Nov 2019 at 2011Hrs was without Final Approval/Consent.
+3/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+3/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+3/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+3/11/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Pulau Seraya 400kV - CB3-252 & CB3-352 on 02 Nov 2019 at 2011Hrs was without Final Approval/Consent.
+3/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit SERCCP2 on 02 Nov 2019 at 1801Hrs was without Final Approval/Consent.
+3/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SKRA G1 - GASTUR11 on 03 Nov 2019 at 0001Hrs was without Final Approval/Consent.
+4/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SERCCP2 on 04 Nov 2019 at 0001Hrs was without Final Approval/Consent.
+4/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+4/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+4/11/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,Outage of Generating Unit SKRA G1 - GASTUR11 on 03 Nov 2019 at 0001Hrs was without Final Approval/Consent.
+4/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+4/11/2019,8:30,23:30,Tuas Power Generation ,1.287521,103.640834,Medco (WNTS) ORF has completed the maintenance work on 04 Nov 2019 at 17:00 Hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+4/11/2019,8:30,9:00,Senoko Energy ,1.464911,103.798805,High-Risk Operating State commence at 08:31Hrs on 04 Nov 2019. There is a Contingency Reserve Shortfall.
+4/11/2019,9:00,9:30,YTL PowerSeraya ,1.280212,103.719584,Normal Operating State.
+4/11/2019,9:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Medco (WNTS) ORF will be carrying out maintenance work on 04 Nov 2019 to 08 Nov 2019 daily from 0900Hrs to 1700Hrs. Medco (WNTS) will be in single point failure mode during these periods. Please be on alert and standby.
+4/11/2019,9:30,10:00,YTL PowerSeraya ,1.280212,103.719584,High-Risk Operating State commence at 09:31Hrs on 04 Nov 2019. There is a Contingency Reserve Shortfall.
+4/11/2019,10:00,10:30,Senoko Energy ,1.464911,103.798805,Normal Operating State.
+4/11/2019,13:30,14:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Forced outage of generating unit EXON GA at 34MW on 04 Nov 2019 at 13:49Hrs. 
+4/11/2019,19:30,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+5/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+5/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Medco (WNTS) ORF will be carrying out maintenance work on 04 Nov 2019 to 08 Nov 2019 daily from 0900Hrs to 1700Hrs. Medco (WNTS) will be in single point failure mode during these periods. Please be on alert and standby.
+5/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Medco (WNTS) ORF has completed the maintenance work on 04 Nov 2019 at 17:00 Hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+5/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SKRA G1 - GASTUR11 on 03 Nov 2019 at 0001Hrs was without Final Approval/Consent.
+5/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+5/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+5/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+5/11/2019,8:30,17:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Medco (WNTS) ORF has completed the maintenance work on 05 Nov 2019 at 1653 Hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+5/11/2019,9:30,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+5/11/2019,14:00,15:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 1 is anticipated to carry out on 05 Nov 2019 from 1410Hrs to 1510Hrs.
+5/11/2019,14:00,15:30,PacificLight Power ,1.286848,103.722708,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 1 was carried out on 05 Nov 2019 from 1401Hrs to 1501Hrs.
+6/11/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+6/11/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Medco (WNTS) ORF has completed the maintenance work on 04 Nov 2019 at 17:00 Hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+6/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+6/11/2019,0:00,23:30,Shell Eastern Petroleum ,1.228974,103.767913,Medco (WNTS) ORF will be carrying out maintenance work on 04 Nov 2019 to 08 Nov 2019 daily from 0900Hrs to 1700Hrs. Medco (WNTS) will be in single point failure mode during these periods. Please be on alert and standby.
+6/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Generating Unit SKRA G1 - GASTUR11 on 03 Nov 2019 at 0001Hrs was without Final Approval/Consent.
+6/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+6/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+6/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+6/11/2019,8:30,17:00,SembCorp Cogen ,1.256499,103.701611,Medco (WNTS) ORF has completed the maintenance work on 06 Nov 2019 at 1705 hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+6/11/2019,17:00,18:30,Tuaspring ,1.301691,103.623691,Fuel changeover test of Generating Unit SNKCCP4 was carried out and completed on 06 Nov 2019 at the following timing. Gas to Diesel : From 1803Hrs - 1811Hrs. Diesel to Gas : From 1846Hrs - 1854Hrs.
+6/11/2019,17:00,18:30,Tuaspring ,1.301691,103.623691,Fuel changeover test of Generating Unit SNKCCP4 is anticipated to carry out on 06 Nov 2019 at the following timing. Gas to Diesel : At about 1701Hrs. Diesel to Gas : At about 1801Hrs.
+6/11/2019,17:00,17:30,Singapore Refining Company ,1.290862,103.712448,High-Risk Operating State commence at 17:01Hrs on 06 Nov 2019. There is a Contingency Reserve Shortfall.
+6/11/2019,17:30,18:00,TuasOne ,1.308372,103.631444,Normal Operating State
+7/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+7/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Medco (WNTS) ORF will be carrying out maintenance work on 04 Nov 2019 to 08 Nov 2019 daily from 0900Hrs to 1700Hrs. Medco (WNTS) will be in single point failure mode during these periods. Please be on alert and standby.
+7/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+7/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+7/11/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+7/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+7/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit SKRA G1 - GASTUR11 on 03 Nov 2019 at 0001Hrs was without Final Approval/Consent.
+7/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Medco (WNTS) ORF has completed the maintenance work on 04 Nov 2019 at 17:00 Hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+7/11/2019,8:30,17:30,YTL PowerSeraya ,1.280212,103.719584,Medco (WNTS) ORF has completed the maintenance work on 07 Nov 2019 at 1730 hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+7/11/2019,10:30,11:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Forced outage of generating unit TUASCCP4 at 345MW on 07 Nov 2019 at 10:33Hrs. 
+7/11/2019,10:30,11:00,YTL PowerSeraya ,1.280212,103.719584,Activate scheduled contingency reserve from Load Facilities. Must deliver within 10 Minutes.
+7/11/2019,11:00,11:30,Senoko Energy ,1.464911,103.798805,High-Risk Operating State commence at 11:01Hrs on 07 Nov 2019. There is a Contingency Reserve Shortfall.
+7/11/2019,11:30,12:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Load interrupted can be restored with immediate effect.
+7/11/2019,11:30,12:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Emergency Operating State commence at 11:31Hrs on 07 Nov 2019. There is a Contingency Reserve Shortfall.
+7/11/2019,14:00,15:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 2 was carried out on 07 Nov 2019 from 1401Hrs to 1502Hrs.
+7/11/2019,14:00,15:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 2 is anticipated to carry out on 07 Nov 2019 from 1410Hrs to 1510Hrs.
+7/11/2019,18:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Sakra 230kV - Jurong Island 230kV Feeder 2 on 07 Nov 2019 at 1801Hrs was without Final Approval/Consent.
+8/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+8/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+8/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SKRA G1 - GASTUR11 on 03 Nov 2019 at 0001Hrs was without Final Approval/Consent.
+8/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Sakra 230kV - Jurong Island 230kV Feeder 2 on 07 Nov 2019 at 1801Hrs was without Final Approval/Consent.
+8/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+8/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+8/11/2019,0:00,17:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Medco (WNTS) ORF will be carrying out maintenance work on 04 Nov 2019 to 08 Nov 2019 daily from 0900Hrs to 1700Hrs. Medco (WNTS) will be in single point failure mode during these periods. Please be on alert and standby.
+8/11/2019,0:00,17:00,PacificLight Power ,1.286848,103.722708,Medco (WNTS) ORF has completed the maintenance work on 04 Nov 2019 at 17:00 Hrs for the day.  Medco (WNTS) ORF is back to normal operating mode.
+8/11/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+8/11/2019,8:30,9:00,Keppel Merlimau Cogen ,1.282498,103.675245,High-Risk Operating State commence at 08:31Hrs on 08 Nov 2019. There is a Contingency Reserve Shortfall.
+8/11/2019,9:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit TUASCCP4 on 08 Nov 2019 at 0900Hrs was without Final Approval/Consent.
+8/11/2019,9:00,9:30,Shell Eastern Petroleum ,1.228974,103.767913,Emergency Operating State commence at 09:01Hrs on 08 Nov 2019. There is a Contingency Reserve Shortfall.
+8/11/2019,14:30,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Tuas 400kV - CB8-252 & CB8-352 on 08 Nov 2019 at 1435Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Sakra 230kV - Jurong Island 230kV Feeder 2 on 07 Nov 2019 at 1801Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit TUASCCP4 on 08 Nov 2019 at 0900Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Tuas 400kV - CB8-252 & CB8-352 on 08 Nov 2019 at 1435Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+9/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+9/11/2019,10:30,11:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,High-Risk Operating State commence at 10:31Hrs on 09 Nov 2019. There is a Contingency Reserve Shortfall.
+9/11/2019,11:00,11:30,Senoko Energy ,1.464911,103.798805,Emergency Operating State commence at 11:01Hrs on 09 Nov 2019. There is a
+9/11/2019,12:00,12:30,Senoko Energy ,1.464911,103.798805,High-Risk Operating State commence at 12:01Hrs on 09 Nov 2019. There is a Contingency Reserve Shortfall.
+9/11/2019,12:30,13:00,TP Utilities ,1.266428,103.672143,Normal operating State.
+10/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+10/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+10/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+10/11/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+10/11/2019,0:00,18:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Tuas 400kV - CB8-252 & CB8-352 on 08 Nov 2019 at 1435Hrs was without Final Approval/Consent.
+10/11/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit TUASCCP4 on 08 Nov 2019 at 0900Hrs was without Final Approval/Consent.
+10/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Sakra 230kV - Jurong Island 230kV Feeder 2 on 07 Nov 2019 at 1801Hrs was without Final Approval/Consent.
+10/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+10/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+11/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+11/11/2019,0:00,17:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Sakra 230kV - Jurong Island 230kV Feeder 2 on 07 Nov 2019 at 1801Hrs was without Final Approval/Consent.
+11/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+11/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+11/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit TUASCCP4 on 08 Nov 2019 at 0900Hrs was without Final Approval/Consent.
+11/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+11/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+11/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+11/11/2019,8:00,8:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,High-Risk Operating State commence at 08:01Hrs on 11 Nov 2019. There is a Contingency Reserve Shortfall.
+11/11/2019,8:30,9:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Emergency Operating State commence at 08:31Hrs on 11 Nov 2019. There is a Contingency Reserve Shortfall.
+11/11/2019,10:00,10:30,PacificLight Power ,1.286848,103.722708,High-Risk Operating State commence at 10:01Hrs on 11 Nov 2019. There is a Contingency Reserve Shortfall.
+11/11/2019,10:30,11:00,Keppel Merlimau Cogen ,1.282498,103.675245,Emergency Operating State commence at 10:31Hrs on 11 Nov 2019. There is a Contingency Reserve Shortfall.
+12/11/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+12/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+12/11/2019,0:00,23:30,Shell Eastern Petroleum ,1.228974,103.767913,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+12/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+12/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+12/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+12/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Generating Unit TUASCCP4 on 08 Nov 2019 at 0900Hrs was without Final Approval/Consent.
+13/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+13/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+13/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+13/11/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+13/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+13/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+14/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+14/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+14/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+14/11/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+14/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+14/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+14/11/2019,19:00,20:30,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit SERCCP1 is anticipated to carry out on 14 Nov 2019 at the following timing. Gas to Gas : At about 1901Hrs. Gas to Gas : At about 2001Hrs.
+14/11/2019,19:00,20:30,YTL PowerSeraya ,1.280212,103.719584,Fuel changeover test of Generating Unit SERCCP1 was carried out and completed on 14 Nov 2019 at the following timing. Gas to Gas : From 1901Hrs - 1905Hrs. Gas to Gas : From 2009Hrs - 2012Hrs.
+15/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP2 - CCPSTG 2 on 26 Oct 2019 at 0001Hrs was without Final Approval/Consent.
+15/11/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+15/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+15/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+15/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+15/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+15/11/2019,18:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Sakra Cogeneration Plant 230kV CB13-52 on 15 Nov 2019 at 1801Hrs was without Final Approval.
+15/11/2019,21:00,22:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Fuel changeover test of Generating Unit TUASCCP3 was carried out and completed on 15 Nov 2019 at the following timing. Gas to Diesel : From 2101Hrs - 2104Hrs. Diesel to Gas : From 2138Hrs - 2142Hrs.
+15/11/2019,21:00,22:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit TUASCCP3 is anticipated to carry out on 15 Nov 2019 at the following timing. Gas to Diesel : At about 2101Hrs. Diesel to Gas : At about 2131Hrs.
+16/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+16/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+16/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+16/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit SKRA G1 - GASTUR11 on 09 Nov 2019 at 0001Hrs was without Final Approval.
+16/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Sakra Cogeneration Plant 230kV CB13-52 on 15 Nov 2019 at 1801Hrs was without Final Approval.
+16/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+16/11/2019,9:30,17:00,PacificLight Power ,1.286848,103.722708,Outage of Tuas Power Station 400kV CB6-252 & CB6-352 on 16 Nov 2019 at 0950Hrs was without Final Approval.
+16/11/2019,18:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Sakra Cogeneration Plant 230kV CB33-52 on 16 Nov 2019 at 1801Hrs was without Final Approval.
+17/11/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+17/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+17/11/2019,0:00,23:30,Shell Eastern Petroleum ,1.228974,103.767913,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+17/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Sakra Cogeneration Plant 230kV CB13-52 on 15 Nov 2019 at 1801Hrs was without Final Approval.
+17/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+17/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Sakra Cogeneration Plant 230kV CB33-52 on 16 Nov 2019 at 1801Hrs was without Final Approval.
+18/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Sakra Cogeneration Plant 230kV CB13-52 on 15 Nov 2019 at 1801Hrs was without Final Approval.
+18/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Generating Unit JUR GT2 on 04 Nov 2019 at 1931Hrs was without Final Approval/Consent.
+18/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Sakra Cogeneration Plant 230kV CB33-52 on 16 Nov 2019 at 1801Hrs was without Final Approval.
+18/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+18/11/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+18/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+18/11/2019,9:30,10:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,High-Risk Operating State commence at 09:31Hrs on 18 Nov 2019. There is a Contingency Reserve Shortfall.
+18/11/2019,10:00,10:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Normal Operating State
+18/11/2019,10:30,11:00,Senoko Energy ,1.464911,103.798805,High-Risk Operating State commence at 10:31Hrs on 18 Nov 2019. There is a Contingency Reserve Shortfall.
+18/11/2019,11:00,11:30,Senoko Energy ,1.464911,103.798805,Normal Operating State
+18/11/2019,11:30,12:00,TP Utilities ,1.266428,103.672143,Outage of Pulau Seraya Switchhouse I 66kV Bus Section BS2-152 on 18 Nov 2019 at 1140Hrs was without Final Approval.
+18/11/2019,14:30,15:00,TuasOne ,1.308372,103.631444,Forced outage of generating unit KMCBLK1 at 204MW on 18 Nov 2019 at 14:51Hrs. 
+18/11/2019,15:00,15:30,Tuas Power Generation ,1.287521,103.640834,High-Risk Operating State commence at 15:01Hrs on 18 Nov 2019. There is a Contingency Reserve Shortfall.
+18/11/2019,15:30,16:00,Senoko Energy ,1.464911,103.798805,Emergency Operating State commence at 15:31Hrs on 18 Nov 2019. There is a Contingency Reserve Shortfall.
+18/11/2019,18:30,19:00,YTL PowerSeraya ,1.280212,103.719584,Normal Operating State
+19/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Sakra Cogeneration Plant 230kV CB33-52 on 16 Nov 2019 at 1801Hrs was without Final Approval.
+19/11/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Sakra Cogeneration Plant 230kV CB13-52 on 15 Nov 2019 at 1801Hrs was without Final Approval.
+19/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+19/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+19/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+19/11/2019,9:30,10:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Normal Operating State
+19/11/2019,18:30,19:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,High-Risk Operating State commence at 18:31Hrs on 19 Nov 2019. There is a Contingency Reserve Shortfall.
+19/11/2019,19:00,19:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Emergency Operating State commence at 19:01Hrs on 19 Nov 2019. There is a Contingency Reserve Shortfall.
+19/11/2019,19:30,20:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Normal Operating State
+19/11/2019,21:00,22:00,TuasOne ,1.308372,103.631444,Fuel changeover test of Generating Unit TUASCCP4 is anticipated to carry out on 19 Nov 2019 at the following timing. Gas to Diesel : At about 2101Hrs. Diesel to Gas : At about 2131Hrs.
+19/11/2019,21:00,22:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit TUASCCP4 was carried out and completed on 19 Nov 2019 at the following timing. Gas to Diesel : From 2101Hrs - 2104Hrs. Diesel to Gas : From 2140Hrs - 2144Hrs.
+20/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+20/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+20/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Sakra Cogeneration Plant 230kV CB13-52 on 15 Nov 2019 at 1801Hrs was without Final Approval.
+20/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+20/11/2019,0:00,18:00,PacificLight Power ,1.286848,103.722708,Outage of Sakra Cogeneration Plant 230kV CB33-52 on 16 Nov 2019 at 1801Hrs was without Final Approval.
+20/11/2019,11:00,11:30,Keppel Merlimau Cogen ,1.282498,103.675245,High-Risk Operating State commence at 11:01Hrs on 20 Nov 2019. There is a Contingency Reserve Shortfall.
+20/11/2019,11:30,12:00,Keppel Merlimau Cogen ,1.282498,103.675245,Normal Operating State.
+20/11/2019,21:00,22:00,Tuas Power Generation ,1.287521,103.640834,Fuel changeover test of Generating Unit TUAS CCP1 is anticipated to carry out on 20 Nov 2019 at the following timing. Gas to Diesel : At about 2101Hrs. Diesel to Gas : At about 2131Hrs.
+20/11/2019,21:00,21:30,Shell Eastern Petroleum ,1.228974,103.767913,TUAS CCP1 has cancelled its Fuel Changeover test on 20 Nov 2019.
+21/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+21/11/2019,0:00,18:00,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Sakra Cogeneration Plant 230kV CB13-52 on 15 Nov 2019 at 1801Hrs was without Final Approval.
+21/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit SKRA G1 & SKRA G2 - STGENR10 on 21 Nov 2019 at 0001Hrs was without Final Approval.
+21/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+21/11/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+21/11/2019,9:00,9:30,Tuaspring ,1.301691,103.623691,Outage of Seraya II 230kV CB3052 on 21 Nov 2019 at 0910Hrs was without Final Approval.
+21/11/2019,13:30,14:00,Tuaspring ,1.301691,103.623691,Outage of Pulau Seraya Switchhouse II 230kV CB3152 on 21 Nov 2019 at 1356Hrs was without Final Approval.
+21/11/2019,15:30,18:00,Singapore Refining Company ,1.290862,103.712448,Outage of Sakra Cogeneration Plant 230kV - Busbar 1 on 21 Nov 2019 at 1547Hrs was without Final Approval.
+21/11/2019,19:00,20:30,TuasOne ,1.308372,103.631444,Fuel changeover test of Generating Unit SER CCP2  is anticipated to carry out on 21 Nov 2019 at the following timing. Gas to Gas : At about 1901Hrs. Gas to Gas : At about 2001Hrs.
+21/11/2019,19:00,20:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit SER CCP2 was carried out and completed on 21 Nov 2019 at the following timing. Gas to Gas : From 1901Hrs - 1904Hrs. Gas to Gas : From 2005Hrs - 2008Hrs.
+21/11/2019,21:00,22:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit TUAS CCP2 is anticipated to carry out on 21 Nov 2019 at the following timing. Gas to Diesel : At about 2101Hrs. Diesel to Gas : At about 2131Hrs.
+21/11/2019,21:00,22:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit TUAS CCP2 was carried out and completed on 21 Nov 2019 at the following timing. Gas to Diesel : From 2101Hrs - 2104Hrs. Diesel to Gas : From 2138Hrs - 2142Hrs.
+22/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SKRA G1 & SKRA G2 - STGENR10 on 21 Nov 2019 at 0001Hrs was without Final Approval.
+22/11/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+22/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+22/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+22/11/2019,1:00,1:30,Senoko Energy ,1.464911,103.798805,Forced outage of Seraya S/H I / P. Merbau I 66kV Feeder No. 2 on 22 Nov 2019 at 0130Hrs.
+23/11/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+23/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+23/11/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+23/11/2019,0:00,7:00,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SKRA G1 & SKRA G2 - STGENR10 on 21 Nov 2019 at 0001Hrs was without Final Approval.
+23/11/2019,7:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit SKRA G1 & SKRA G2 - STGENR10 on 23 Nov 2019 at 0701Hrs was without Final Approval.
+23/11/2019,17:30,18:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Pulau Seraya Switch House II 230kV - CB3252 on 23 Nov 2019 at 1731Hrs was without Final Approval.
+23/11/2019,19:30,20:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Pulau Seraya Switch House II 230kV - CB3352 on 23 Nov 2019 at 1937Hrs was without Final Approval.
+23/11/2019,20:30,21:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Pulau Seraya Switch House II 230kV - CB3452 on 23 Nov 2019 at 2038Hrs was without Final Approval.
+24/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+24/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+24/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit SKRA G2- GASTUR12 on 24 Nov 2019 at 0001Hrs was without Final Approval.
+24/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SKRA G1 & SKRA G2 - STGENR10 on 23 Nov 2019 at 0701Hrs was without Final Approval.
+24/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+25/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+25/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SKRA G2- GASTUR12 on 24 Nov 2019 at 0001Hrs was without Final Approval.
+25/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+25/11/2019,0:00,23:30,PacificLight Power ,1.286848,103.722708,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+25/11/2019,18:30,19:30,Keppel Merlimau Cogen ,1.282498,103.675245,Fuel changeover test of Generating Unit SERCCP3 is anticipated to carry out on 25 Nov 2019 at the following timing. Gas to Diesel : At about 1831Hrs. Diesel to Gas : At about 1901Hrs.
+25/11/2019,18:30,19:30,Keppel Merlimau Cogen ,1.282498,103.675245,Fuel changeover test of Generating Unit SERCCP3 was carried out and completed on 25 Nov 2019 at the following timing. Gas to Diesel : From 1831Hrs - 1834Hrs. Diesel to Gas : From 1905Hrs - 1907Hrs.
+26/11/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+26/11/2019,0:00,23:30,Shell Eastern Petroleum ,1.228974,103.767913,Outage of Generating Unit SKRA G2 - GASTUR12 on 26 Nov 2019 at 0001Hrs was without Final Approval.
+26/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+26/11/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+26/11/2019,18:30,19:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Fuel changeover test of Generating Unit SNKCCP2-GASTUR3 is anticipated to carry out on 26 Nov 2019 at the following timing. Gas to Diesel : At about 1831Hrs. Diesel to Gas : At about 1901Hrs.
+26/11/2019,18:30,19:30,SembCorp Cogen ,1.256499,103.701611,Fuel changeover test of Generating Unit SNKCCP2- GASTUR3 was carried out and completed on 26 Nov 2019 at the following timing. Gas to Diesel : From 1831Hrs - 1835Hrs. Diesel to Gas : From 1906Hrs - 1908Hrs.
+26/11/2019,21:00,22:00,SembCorp Cogen ,1.256499,103.701611,Fuel changeover test of Generating Unit TUASCCP1 was carried out and completed on 26 Nov 2019 at the following timing. Gas to Diesel : From 2101Hrs - 2104Hrs. Diesel to Gas : From 2140Hrs - 2144Hrs.
+26/11/2019,21:00,22:00,Tuaspring ,1.301691,103.623691,Fuel changeover test of Generating Unit TUASCCP1 is anticipated to carry out on 26 Nov 2019 at the following timing. Gas to Diesel : At about 2101Hrs. Diesel to Gas : At about 2131Hrs.
+27/11/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+27/11/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Generating Unit SKRA G2 - GASTUR12 on 27 Nov 2019 at 0001Hrs was without Final Approval.
+27/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+27/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+28/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SKRA G2 - GASTUR12 on 28 Nov 2019 at 0001Hrs was without Final Approval.
+28/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+28/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+28/11/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+28/11/2019,10:30,11:00,TuasOne ,1.308372,103.631444,Outage of Pioneer Sector 66/22kV transformer No. 2 on 28 Nov 2019 at 1032Hrs was without Final Approval.
+28/11/2019,18:00,19:00,Tuas Power Generation ,1.287521,103.640834,Fuel changeover test of Generating Unit KMCBLK3 was carried out and completed on 28 Nov 2019 at the following timing. Gas to Diesel : From 1803Hrs - 1812Hrs. Diesel to Gas : From 1845Hrs - 1853Hrs.
+28/11/2019,18:00,19:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit KMCBLK3 is anticipated to carry out on 28 Nov 2019 at the following timing. Gas to Diesel : At about 1801Hrs. Diesel to Gas : At about 1850Hrs.
+29/11/2019,0:00,12:00,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit SKRA G2 - GASTUR12 on 28 Nov 2019 at 0001Hrs was without Final Approval.
+29/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+29/11/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+29/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP6 on 29 Nov 2019 at 0001Hrs was without Final Approval.
+29/11/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+29/11/2019,18:00,19:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit SERCCP3 was carried out and completed on 29 Nov 2019 at the following timing. Gas to Gas : From 1801Hrs - 1809Hrs. Gas to Gas : From 1908Hrs - 1912Hrs.
+29/11/2019,18:00,19:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit SERCCP3 is anticipated to carry out on 29 Nov 2019 at the following timing. Gas to Gas : At about 1801Hrs. Gas to Gas : At about 1901Hrs.
+29/11/2019,20:00,21:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit SERCCP4 was carried out and completed on 29 Nov 2019 at the following timing. Gas to Gas : From 2001Hrs - 2009Hrs. Gas to Gas : From 2101Hrs - 2105Hrs.
+29/11/2019,20:00,21:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Fuel changeover test of Generating Unit SERCCP4 is anticipated to carry out on 29 Nov 2019 at the following timing. Gas to Gas : At about 2001Hrs. Gas to Gas : At about 2101Hrs.
+30/11/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP6 on 29 Nov 2019 at 0001Hrs was without Final Approval.
+30/11/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+30/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+30/11/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+30/11/2019,9:30,10:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Forced outage of generating unit SKRA G2 at 4MW on 30 Nov 2019 at 09:33Hrs. 
+1/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP6 on 29 Nov 2019 at 0001Hrs was without Final Approval.
+1/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+1/12/2019,0:00,23:30,PacificLight Power ,1.286848,103.722708,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+1/12/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+1/12/2019,8:30,9:00,Keppel Merlimau Cogen ,1.282498,103.675245,Forced outage of generating unit SKRA G2 at 66MW on 01 Dec 2019 at 08:35Hrs. 
+2/12/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+2/12/2019,0:00,23:30,Shell Eastern Petroleum ,1.228974,103.767913,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+2/12/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+2/12/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Generating Unit SNKCCP6 on 29 Nov 2019 at 0001Hrs was without Final Approval.
+2/12/2019,15:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,PowerGas has completed the in-line inspection for TL3 pipeline on 02 Dec 2019 at 19:44 Hrs for the day
+2/12/2019,15:00,23:30,SembCorp Cogen ,1.256499,103.701611,PowerGas will be carrying out in-line inspection for TL3 pipeline on 02 Dec 2019
+2/12/2019,15:00,23:30,SembCorp Cogen ,1.256499,103.701611,PowerGas has completed the in-line inspection for TL3 pipeline on 05 Dec 2019 at 22:15 Hrs for the day.
+2/12/2019,15:00,23:30,Tuaspring ,1.301691,103.623691,PowerGas has completed the in-line inspection for TL3 pipeline on 03 Dec 2019 at 21:05 Hrs for the day.
+2/12/2019,20:00,21:00,Tuaspring ,1.301691,103.623691,Fuel changeover test of Generating Unit SERCCP1 was carried out and completed on 02 Dec 2019 at the following timing. Gas to Diesel : From 2001Hrs - 2004Hrs. Diesel to Gas : From 2039Hrs - 2043Hrs.
+2/12/2019,20:00,21:00,Singapore Refining Company ,1.290862,103.712448,Fuel changeover test of Generating Unit SERCCP1 is anticipated to carry out on 02 Dec 2019 at the following timing. Gas to Diesel : At about 2001Hrs. Diesel to Gas : At about 2031Hrs.
+3/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+3/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+3/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+3/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,PowerGas has completed the in-line inspection for TL3 pipeline on 03 Dec 2019 at 21:05 Hrs for the day.
+3/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP6 on 29 Nov 2019 at 0001Hrs was without Final Approval.
+3/12/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,PowerGas has completed the in-line inspection for TL3 pipeline on 02 Dec 2019 at 19:44 Hrs for the day
+3/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,PowerGas has completed the in-line inspection for TL3 pipeline on 05 Dec 2019 at 22:15 Hrs for the day.
+3/12/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,PowerGas will be carrying out in-line inspection for TL3 pipeline on 02 Dec 2019
+3/12/2019,14:00,15:30,Senoko Energy ,1.464911,103.798805,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 1 is anticipated to carry out on 03 Dec 2019 from 1410Hrs to 1510Hrs.
+3/12/2019,14:00,15:30,YTL PowerSeraya ,1.280212,103.719584,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 1 was carried out on 03 Dec 2019 from 1401Hrs to 1501Hrs.
+3/12/2019,20:00,21:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit KMCBLK1 - GASTUR11 was carried out and completed on 03 Dec 2019 at the following timing. Gas to Diesel : From 2001Hrs - 2005Hrs. Diesel to Gas : From 2041Hrs - 2045Hrs.
+3/12/2019,20:00,21:00,YTL PowerSeraya ,1.280212,103.719584,Fuel changeover test of Generating Unit KMCBLK1 - GASTUR11 is anticipated to carry out on 03 Dec 2019 at the following timing. Gas to Diesel : At about 2001Hrs. Diesel to Gas : At about 2031Hrs.
+4/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,PowerGas has completed the in-line inspection for TL3 pipeline on 02 Dec 2019 at 19:44 Hrs for the day
+4/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,PowerGas has completed the in-line inspection for TL3 pipeline on 03 Dec 2019 at 21:05 Hrs for the day.
+4/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+4/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,PowerGas has completed the in-line inspection for TL3 pipeline on 05 Dec 2019 at 22:15 Hrs for the day.
+4/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+4/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+4/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,PowerGas will be carrying out in-line inspection for TL3 pipeline on 02 Dec 2019
+4/12/2019,17:00,18:00,TuasOne ,1.308372,103.631444,Generating Unit SNKCCP6 has cancelled its Fuel changeover test on 04 Dec 2019.
+4/12/2019,17:00,18:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit SNKCCP6 is anticipated to carry out on 04 Dec 2019 at the following timing. Gas to Diesel : At about 1701Hrs. Diesel to Gas : At about 1731Hrs.
+4/12/2019,20:00,21:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit KMCBLK4 was carried out and completed on 04 Dec 2019 at the following timing. Gas to Diesel : From 2004Hrs - 2013Hrs. Diesel to Gas : From 2048Hrs - 2056Hrs.
+4/12/2019,20:00,21:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Fuel changeover test of Generating Unit KMCBLK4 is anticipated to carry out on 04 Dec 2019 at the following timing. Gas to Diesel : At about 2001Hrs. Diesel to Gas : At about 2045Hrs.
+5/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+5/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+5/12/2019,0:00,19:00,Tuas Power Generation ,1.287521,103.640834,PowerGas has completed the in-line inspection for TL3 pipeline on 05 Dec 2019 at 22:15 Hrs for the day.
+5/12/2019,0:00,19:00,Senoko Energy ,1.464911,103.798805,PowerGas has completed the in-line inspection for TL3 pipeline on 03 Dec 2019 at 21:05 Hrs for the day.
+5/12/2019,0:00,19:00,YTL PowerSeraya ,1.280212,103.719584,PowerGas has completed the in-line inspection for TL3 pipeline on 02 Dec 2019 at 19:44 Hrs for the day
+5/12/2019,0:00,19:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,PowerGas will be carrying out in-line inspection for TL3 pipeline on 02 Dec 2019
+5/12/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+5/12/2019,13:30,15:00,Senoko Energy ,1.464911,103.798805,SLNG has completed the electrical work at SLNG Terminal on 05 Dec 2019 at 1455 Hrs
+5/12/2019,13:30,15:00,ExxonMobil Asia Pacific ,1.26834,103.693372,SLNG will be carrying out electrical work at SLNG Terminal on 05 Dec 2019
+5/12/2019,14:00,15:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 2 was carried out on 05 Dec 2019 from 1401Hrs to 1501Hrs.
+5/12/2019,14:00,15:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Testing of Black Start Facility at Seraya Power Station - Ser BSGT 2 is anticipated to carry out on 05 Dec 2019 from 1410Hrs to 1510Hrs.
+5/12/2019,20:00,21:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit KMCBLK2 - GASTUR12 was carried out and completed on 05 Dec 2019 at the following timing. Gas to Diesel : From 2002Hrs - 2005Hrs. Diesel to Gas : From 2040Hrs - 2044Hrs.
+5/12/2019,20:00,21:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Fuel changeover test of Generating Unit KMCBLK2 - GASTUR12 is anticipated to carry out on 05 Dec 2019 at the following timing. Gas to Diesel : At about 2001Hrs. Diesel to Gas : At about 2045Hrs.
+6/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+6/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+6/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+6/12/2019,18:30,19:30,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit PACLBLK2 was carried out and completed on 06 Dec 2019 at the following timing. Gas to Diesel : From 1834Hrs - 1838Hrs. Diesel to Gas : From 1908Hrs - 1910Hrs.
+6/12/2019,18:30,19:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Fuel changeover test of Generating Unit PACLBLK2 is anticipated to carry out on 06 Dec 2019 at the following timing. Gas to Diesel : At about 1831Hrs. Diesel to Gas : At about 1901Hrs.
+7/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+7/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+7/12/2019,0:00,23:30,PacificLight Power ,1.286848,103.722708,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+7/12/2019,14:30,15:30,Keppel Merlimau Cogen ,1.282498,103.675245,Fuel changeover test of Generating Unit SKRA G1 - GASTUR11 was carried out and completed on 07 Dec 2019 at the following timing. Gas to Diesel : From 1430Hrs - 1432Hrs. Diesel to Gas : From 1511Hrs - 1513Hrs.
+7/12/2019,14:30,15:30,Keppel Merlimau Cogen ,1.282498,103.675245,Fuel changeover test of Generating Unit SKRA G1 - GASTUR11 is anticipated to carry out on 07 Dec 2019 at the following timing. Gas to Diesel : At about 1431Hrs. Diesel to Gas : At about 1501Hrs.
+7/12/2019,17:00,18:00,Tuas Power Generation ,1.287521,103.640834,Fuel changeover test of Generating Unit SKRA G2 - GASTUR12 is anticipated to carry out on 07 Dec 2019 at the following timing. Gas to Diesel : At about 1701Hrs. Diesel to Gas : At about 1731Hrs.
+7/12/2019,17:00,18:00,Shell Eastern Petroleum ,1.228974,103.767913,Fuel changeover test of Generating Unit SKRA G2 - GASTUR12 was carried out and completed on 07 Dec 2019 at the following timing. Gas to Diesel : From 1700Hrs - 1703Hrs. Diesel to Gas : From 1741Hrs - 1744Hrs. 
+8/12/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+8/12/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+8/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+8/12/2019,9:30,10:00,SembCorp Cogen ,1.256499,103.701611,Forced outage of  Upper Jurong 66KV - NISM No. 2 on 08 Dec 2019 at 0943Hrs.
+8/12/2019,12:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Generating Unit TUASCCP1 on 08 Dec 2019 at 1200Hrs was without Final Approval.
+9/12/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+9/12/2019,0:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit TUASCCP1 on 08 Dec 2019 at 1200Hrs was without Final Approval.
+9/12/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+9/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+9/12/2019,17:00,18:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit PACLBLK1 is anticipated to carry out on 09 Dec 2019 at the following timing. Gas to Diesel : At about 1701Hrs. Diesel to Gas : At about 1731Hrs.
+9/12/2019,17:00,18:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit PACLBLK1 was carried out and completed on 09 Dec 2019 at the following timing. Gas to Diesel : From 1705Hrs - 1708Hrs. Diesel to Gas : From 1738Hrs - 1740Hrs.
+9/12/2019,23:00,23:30,Senoko Energy ,1.464911,103.798805,Forced outage of Upper Jurong 66kV(CB2452) - Northern Tuas on 09 Dec 2019 at 2302Hrs.
+10/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+10/12/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+10/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+10/12/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit TUASCCP1 on 08 Dec 2019 at 1200Hrs was without Final Approval.
+10/12/2019,17:00,18:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit SNKCCP7 was carried out and completed on 10 Dec 2019 at the following timing. Gas to Diesel : From 1701Hrs - 1705Hrs. Diesel to Gas : From 1737Hrs - 1739Hrs.
+10/12/2019,17:00,18:00,YTL PowerSeraya ,1.280212,103.719584,Fuel changeover test of Generating Unit SNKCCP7 is anticipated to carry out on 10 Dec 2019 at the following timing. Gas to Diesel : At about 1701Hrs. Diesel to Gas : At about 1731Hrs.
+11/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit TUASCCP1 on 08 Dec 2019 at 1200Hrs was without Final Approval.
+11/12/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+11/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+11/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+11/12/2019,9:00,9:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Forced outage of a Pulau Seraya Switchhouse I 66kV station transformer No. 3 on 11 Dec 2019 at 0917Hrs.
+12/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+12/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit TUASCCP1 on 08 Dec 2019 at 1200Hrs was without Final Approval.
+12/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+12/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+12/12/2019,18:00,19:00,TuasOne ,1.308372,103.631444,Fuel changeover test of Generating Unit TUASCCP5 was carried out and completed on 12 Dec 2019 at the following timing. Gas to Gas : From 1801Hrs - 1804Hrs. Gas to Gas : From 1837Hrs - 1839Hrs.
+12/12/2019,18:00,18:30,Senoko Energy ,1.464911,103.798805,Outage of Ann Siang Hill 66kV - Peng Nguan Feeder No. 1 on 12 Dec 2019 at 1827Hrs was without Final Approval.
+12/12/2019,18:00,19:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit TUASCCP5 is anticipated to carry out on 12 Dec 2019 at the following timing. Gas to Gas : At about 1801Hrs. Gas to Gas : At about 1831Hrs.
+13/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+13/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+13/12/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit SNKCCP2-GASTUR 3 on 13 Dec 2019 at 0001Hrs was without Final Approval.
+13/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+14/12/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+14/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+14/12/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit SNKCCP2-GASTUR 3 on 13 Dec 2019 at 0001Hrs was without Final Approval.
+14/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+15/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+15/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP2-GASTUR 3 on 13 Dec 2019 at 0001Hrs was without Final Approval.
+15/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+15/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+15/12/2019,18:30,19:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Forced outage of Generating Unit SNKCCP4 - CCPST4 at 119MW on 15 Dec 2019 at 1841Hrs.
+16/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP2-GASTUR 3 on 13 Dec 2019 at 0001Hrs was without Final Approval.
+16/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+16/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+16/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+17/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+17/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+17/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit SNKCCP2-GASTUR 3 on 13 Dec 2019 at 0001Hrs was without Final Approval.
+17/12/2019,0:00,23:30,PacificLight Power ,1.286848,103.722708,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+18/12/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+18/12/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+18/12/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+18/12/2019,17:30,18:30,Shell Eastern Petroleum ,1.228974,103.767913,Generating Unit TSPBLK1 did not complete the Fuel changeover test on 18 Dec 2019.
+18/12/2019,17:30,18:30,Senoko Waste-To-Energy ,1.265026,103.818275,Fuel changeover test of Generating Unit TSPBLK1 is anticipated to carry out on 18 Dec 2019 at the following timing. Gas to Diesel : At about 1731Hrs. Diesel to Gas : At about 1801Hrs.
+18/12/2019,17:30,18:00,Senoko Waste-To-Energy ,1.265026,103.818275,Forced outage of generating unit TSPBLK1 at 276MW on 18 Dec 2019 at 17:35Hrs. 
+19/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+19/12/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+19/12/2019,0:00,23:30,SembCorp Cogen ,1.256499,103.701611,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+19/12/2019,20:00,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit SNKCCP5 on 19 Dec 2019 at 2001Hrs was without Final Approval.
+19/12/2019,22:30,23:30,Tuaspring ,1.301691,103.623691,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+20/12/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Generating Unit SNKCCP5 on 19 Dec 2019 at 2001Hrs was without Final Approval.
+20/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+20/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+20/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+20/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+21/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+21/12/2019,0:00,23:30,TP Utilities ,1.266428,103.672143,Outage of Generating Unit SNKCCP5 on 19 Dec 2019 at 2001Hrs was without Final Approval.
+21/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+21/12/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+21/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+22/12/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+22/12/2019,0:00,17:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit SNKCCP5 on 19 Dec 2019 at 2001Hrs was without Final Approval.
+22/12/2019,0:00,0:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Jurong Harbour 66/22kV transformer No. 2 on 22 Dec 2019 at 0001Hrs was without Final Approval.
+22/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+22/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+22/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+22/12/2019,6:00,6:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Forced outage of Jurong Island/Soxal Shell ASU 66kV Feeder No. 2 on 22 Dec 2019 at 0617Hrs.
+22/12/2019,14:30,15:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit SKRA G1 - GASTUR11 was carried out and completed on 22 Dec 2019 at the following timing. Gas to Gas : From 1435Hrs - 1440Hrs. Gas to Gas : From 1515Hrs - 1520Hrs.
+22/12/2019,14:30,15:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Fuel changeover test of Generating Unit SKRA G1 - GASTUR11 is anticipated to carry out on 22 Dec 2019 at the following timing. Gas to Gas : At about 1431Hrs. Gas to Gas : At about 1501Hrs.
+22/12/2019,14:30,15:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Fuel changeover test of Generating Unit SKRA G2 - GASTUR12 was carried out and completed on 22 Dec 2019 at the following timing. Gas to Gas : From 1435Hrs - 1440Hrs. Gas to Gas : From 1515Hrs - 1520Hrs.
+22/12/2019,14:30,15:30,TuasOne ,1.308372,103.631444,Fuel changeover test of Generating Unit SKRA G2 - GASTUR12 is anticipated to carry out on 22 Dec 2019 at the following timing. Gas to Gas : At about 1431Hrs. Gas to Gas : At about 1501Hrs.
+23/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+23/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+23/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+23/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+23/12/2019,10:30,11:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Changi Expo 66kV - CB7-152 (LTA MRT transformer No. 1) on 23 Dec 2019 at 1044Hrs was without Final Approval.
+24/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+24/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+24/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+24/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+25/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+25/12/2019,0:00,23:30,PacificLight Power ,1.286848,103.722708,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+25/12/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+25/12/2019,0:00,23:30,Keppel Merlimau Cogen ,1.282498,103.675245,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+26/12/2019,0:00,23:30,Tuas Power Generation ,1.287521,103.640834,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+26/12/2019,0:00,23:30,Shell Eastern Petroleum ,1.228974,103.767913,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+26/12/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+26/12/2019,0:00,23:30,Senoko Waste-To-Energy ,1.265026,103.818275,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+26/12/2019,14:30,15:00,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Tembusu 230kV Bus-Section CB2-152 on 26 Dec 2019 at 1431Hrs was without Final Approval.
+26/12/2019,17:00,18:00,SembCorp Cogen ,1.256499,103.701611,Fuel changeover test of Generating Unit SEMBCCP3 is anticipated to carry out on 26 Dec 2019 at the following timing. Gas to Gas : At about 1701Hrs. Gas to Gas : At about 1731Hrs.
+26/12/2019,17:00,18:00,SembCorp Cogen ,1.256499,103.701611,Fuel changeover test of Generating Unit SEMBCCP3 was carried out and completed on 26 Dec 2019 at the following timing. Gas to Gas : From 1704Hrs - 1719Hrs. Gas to Gas : From 1750Hrs - 1804Hrs.
+26/12/2019,18:30,20:00,Tuaspring ,1.301691,103.623691,Fuel changeover test of Generating Unit SNKCCP5 is anticipated to carry out on 26 Dec 2019 at the following timing. Gas to Diesel : At about 1831Hrs. Diesel to Gas : At about 1931Hrs.
+26/12/2019,18:30,20:00,Tuaspring ,1.301691,103.623691,Fuel changeover test of Generating Unit SNKCCP5 was carried out and completed on 26 Dec 2019 at the following timing. Gas to Diesel : From 1832Hrs - 1839Hrs. Diesel to Gas : From 1932Hrs - 1937Hrs.
+27/12/2019,0:00,23:30,Singapore Refining Company ,1.290862,103.712448,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+27/12/2019,0:00,23:30,TuasOne ,1.308372,103.631444,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+27/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+27/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+27/12/2019,17:00,18:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit TSPBLK1 is anticipated to carry out on 27 Dec 2019 at the following timing. Gas to Diesel : At about 1701Hrs. Diesel to Gas : At about 1731Hrs.
+27/12/2019,17:00,18:00,Senoko Energy ,1.464911,103.798805,Fuel changeover test of Generating Unit TSPBLK1 was carried out and completed on 27 Dec 2019 at the following timing. Gas to Diesel : From 1704Hrs - 1706Hrs. Diesel to Gas : From 1738Hrs - 1739Hrs.
+27/12/2019,20:30,21:00,TP Utilities ,1.266428,103.672143,Activate scheduled contingency reserve from Load Facilities. Must deliver within 10 Minutes.
+27/12/2019,20:30,21:00,TuasOne ,1.308372,103.631444,Forced outage of generating unit KMCBLK4 at 393MW on 27 Dec 2019 at 20:42Hrs. 
+27/12/2019,20:30,22:00,Tuas Power Generation ,1.287521,103.640834,Load interrupted can be restored with immediate effect. 
+28/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+28/12/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+28/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+28/12/2019,0:00,23:30,YTL PowerSeraya ,1.280212,103.719584,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+29/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 on 19 Dec 2019 at 2231Hrs was without Final Approval.
+29/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+29/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+29/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+30/12/2019,0:00,23:00,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Marina Centre 66/22kV 75MVA transformer No. 1 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+30/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+30/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit KMCBLK4 on 30 Dec 2019 at 0001Hrs was without Final Approval.
+30/12/2019,0:00,23:00,TuasOne ,1.308372,103.631444,Outage of Marina Centre 66/22kV 75MVA transformer No. 2 on 30 Oct 2019 at 2301Hrs was without Final Approval/Consent.
+30/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 on 30 Dec 2019 at 0001Hrs was without Final Approval.
+31/12/2019,0:00,23:30,Senoko Energy ,1.464911,103.798805,Outage of Generating Unit SNKCCP2 on 30 Dec 2019 at 0001Hrs was without Final Approval.
+31/12/2019,0:00,23:30,ExxonMobil Asia Pacific ,1.26834,103.693372,Outage of Generating Unit EXON GA on 05 Nov 2019 at 0930Hrs was without Final Approval/Consent.
+31/12/2019,0:00,23:30,Keppel Seghers Tuas Waste-to-Energy,1.297881,103.621398,Outage of Generating Unit KMCBLK4 on 30 Dec 2019 at 0001Hrs was without Final Approval.
