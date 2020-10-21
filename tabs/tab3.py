@@ -33,10 +33,10 @@ layout = html.Div(  # This text align helps to center the following graphs
     # =====================
     html.P(            # This html.P is to create white spacing from the blocks above
         html.P(dcc.Tabs(id="tab3-tabs", value='map', children=[
-             dcc.Tab(label='Upcoming Advisories', value='map',
-                className = 'map'),
-             dcc.Tab(label='Latest News', value='tab3a',
-                className = 'tab3a'),
+             # dcc.Tab(label='Upcoming Advisories', value='map',
+             #    className = 'map'), # Hide from view
+             # dcc.Tab(label='Latest News', value='tab3a',
+             #    className = 'tab3a'),  # Hide from view
              dcc.Tab(label='Indices & Commodities', value='tab3b',
                 className = 'tab3b'),
              dcc.Tab(label='Google Trends', value='tab3c',

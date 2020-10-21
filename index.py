@@ -156,14 +156,14 @@ app.layout = html.Div(style={'font-family':'Helvetica', 'textAlign':'justify'},
     # ========================================
     html.Hr(),   # Adding a divider
 
-    html.P(html.Div(html.H4("Brought to you by Team E=MC2 (NUS MSBA 2019/2020)"),
-             className = 'credits',
-             style={'textAlign': "Center",
-                    'font':'Calibri',
-                    'background-color':'white',
-                    'color':'black'
-                    }
-                    ))
+    # html.P(html.Div(html.H4("Brought to you by Team E=MC2 (NUS MSBA 2019/2020)"),
+    #          className = 'credits',
+    #          style={'textAlign': "Center",
+    #                 'font':'Calibri',
+    #                 'background-color':'white',
+    #                 'color':'black'
+    #                 }
+    #                 ))
 
 ])
 
