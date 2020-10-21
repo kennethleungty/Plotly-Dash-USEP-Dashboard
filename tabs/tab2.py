@@ -39,8 +39,8 @@ df_monthly_overlap = df_monthly_overlap.append(first_forecasted_row)
 # ===============================
 #    Model Mockup Image Setup
 # ===============================
-long_term_model_img = 'assets/longterm_model.png' # replace with your own image
-long_term_model_encoded_img = base64.b64encode(open(long_term_model_img, 'rb').read())
+# long_term_model_img = 'assets/longterm_model.png' # replace with your own image
+# long_term_model_encoded_img = base64.b64encode(open(long_term_model_img, 'rb').read())
 
 
 # ==========================
