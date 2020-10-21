@@ -104,7 +104,7 @@ df_hist_annual['PRICE ($/MWh)'] = df_hist_annual['PRICE ($/MWh)'].round(2)
 
 # ======== Running the app =========
 app = dash.Dash(__name__)
-app.title = 'NUS EMC USEP Dashboard'
+app.title = 'USEP Dashboard'
 # auth = dash_auth.BasicAuth(app,USERNAME_PASSWORD_PAIRS)
 
 app.config.suppress_callback_exceptions = True
