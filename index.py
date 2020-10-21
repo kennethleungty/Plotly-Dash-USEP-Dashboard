@@ -95,17 +95,17 @@ app.layout = html.Div(style={'font-family':'Helvetica', 'textAlign':'justify'},
     # =====================================================
     html.Div([
 
-    html.Img(id='nus_logo',
-                 src = 'http://www.nus.edu.sg/images/default-source/base/logo.png',
-                 style={'height':'13%',
-                        'width':'13%'},
-                        className="nus-logo"),
-
-    html.Img(id='emc_logo',
-             src = 'https://www.ddynamics.net/wp-content/gallery/Home-Gallery/EMC.png',
-             style={'height':'21%',
-                    'width':'21%'},
-                    className="emc-logo"),
+    # html.Img(id='nus_logo',
+    #              src = 'http://www.nus.edu.sg/images/default-source/base/logo.png',
+    #              style={'height':'13%',
+    #                     'width':'13%'},
+    #                     className="nus-logo"),
+    #
+    # html.Img(id='emc_logo',
+    #          src = 'https://www.ddynamics.net/wp-content/gallery/Home-Gallery/EMC.png',
+    #          style={'height':'21%',
+    #                 'width':'21%'},
+    #                 className="emc-logo"),
 
     html.Img(id='chatbot_img',
             src = 'https://i.ibb.co/wJdX0RV/chatbot.png',
