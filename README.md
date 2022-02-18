@@ -6,4 +6,4 @@ Develop a Uniform Singapore Energy Price (USEP) forecasting model that takes int
 
 In this project, a Market Information Dashboard including multiple interactive charts, tables and analytical market commentary was developed to visualize the forecast and demand data. Plotly Dash was utilized to build this dashboard.  
 
-To see the dashboard in action, please visit https://usep.herokuapp.com
+You can view the dashboard demo on YouTube: https://www.youtube.com/watch?v=g511j_x5hmE&ab_channel=KennethLeung
